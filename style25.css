@@ -1,0 +1,13 @@
+
+p {
+	margin: 4px 4px;
+	text-align: left;
+}
+
+ .brd {
+  border: 4px;
+  border-style: dashed;
+  width: 450px;
+  height: 100px;
+}
+

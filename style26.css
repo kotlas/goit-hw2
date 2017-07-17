@@ -1,0 +1,21 @@
+.brd {
+  border: 4px;
+  border-style: dashed;
+  width: 410px;
+  height: 140px;
+}
+p{
+	text-align: left;
+	margin: 6px;
+}
+#one{
+	font-size: 25px;
+}
+sup{
+	font-size: 15px;
+	color: red;
+}
+sub{
+	font-size: 15px;
+	color: blue;
+}

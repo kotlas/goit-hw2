@@ -1,0 +1,23 @@
+h2 {
+	background: red;
+	color: white;
+	width: 120px;
+}
+
+
+#one {
+	width: 350px;
+	height: 50px;
+	background: #2a46e3;
+}
+
+#two {
+	width: 350px;
+	height: 40px;
+	background: yellow;
+}
+
+hr {
+  margin-left: 0;
+  width: 380px;
+}
