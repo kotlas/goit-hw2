@@ -9,5 +9,6 @@ p {
   border-style: dashed;
   width: 450px;
   height: 100px;
+  padding: 10px;
 }
 
